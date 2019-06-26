@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Python Flask构建可扩展的RESTful API/ginger/.idea/RESTful_API.iml" filepath="$PROJECT_DIR$/../../Python Flask构建可扩展的RESTful API/ginger/.idea/RESTful_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python flask高级编程/fisher/.idea/fisher.iml" filepath="$PROJECT_DIR$/../../python flask高级编程/fisher/.idea/fisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/imooc.iml" filepath="$PROJECT_DIR$/.idea/imooc.iml" />
+    </modules>
+  </component>
+</project>
